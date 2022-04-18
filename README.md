@@ -5,8 +5,12 @@
 - 👀 这几年在搞Java
 - 🌈 平时想起来就写点[博客](https://ruvikm.github.io/)
 
+最近看到一句很有感触的话，送给看到这里的陌生人
 
-![Java](https://img.shields.io/badge/Java-1.8-brightgreen)
+做一件对的事，不就是会很难吗~
+
+![Java](https://img.shields.io/badge/Java-1.8-orange?style=flat-square&logo=Java) ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
+
 
 <br>
 <br>
