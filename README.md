@@ -1,9 +1,6 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ruvikm&show_icons=true">
+
 ### Hi there 👋
-
-🌱 I’m currently learning Java
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruvikm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruvikm&show_icons=true&count_private=true)
- 
-
+- 🤣 一个底层程序员
+- 👀 这几年在搞Java
+- 🌈 平时想起来就写点[博客](https://ruvikm.github.io/)
