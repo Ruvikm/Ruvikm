@@ -6,6 +6,7 @@
 - ✏️ 平时想起来就写点[博客](https://ruvikm.github.io/)
 
 <br>
+<br>
 最近看到一句很有感触的话，送给看到这里的陌生人
 
 做一件对的事，不就是会很难吗😊~
@@ -16,4 +17,6 @@
 
 <br>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> 
+
+|<a href="https://github.com/Ruvik"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruvikm&show_icons=true&include_all_commits=true&hide_border=true" alt="Ruvikm's github stats" /></a>|<a href="https://github.com/Ruvik"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruvikm&layout=compact&theme=buefy&hide_border=true" /></a>|
+|--|--|
