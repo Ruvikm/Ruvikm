@@ -5,7 +5,7 @@
 - 😣 这几年在搞Java
 - ✏️ 平时想起来就写点[博客](https://ruvikm.github.io/)
 - 💪希望以后可以进大厂
-
+<img align="right" alt="GIF" src="https://s1.ax1x.com/2022/04/19/LworCt.gif?raw=true" width="300" height="180" />
 <br>
 最近看到一句很有感触的话，送给看到这里的陌生人。
 <br>
