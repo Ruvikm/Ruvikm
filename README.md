@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://s1.ax1x.com/2022/04/19/LworCt.gif?raw=true" width="300" height="180" />
+<!-- <img align="right" alt="GIF" src="https://s1.ax1x.com/2022/04/19/LworCt.gif?raw=true" width="300" height="180" /> -->
 
 ### Hi there 👋
 - 🤣 一个学生
