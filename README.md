@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 - 🤣 一个学生
-- 😣 这几年在搞Java
+- 😣 这几年在搞NLP
 - ✏️ 平时想起来就写点[博客](https://ruvikm.github.io/)
 - 💪希望以后可以进大厂
 <br>
