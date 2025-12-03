@@ -17,6 +17,4 @@
 
 <br>
 <br>
-
-|<a href="https://github.com/Ruvikm"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruvikm&show_icons=true&include_all_commits=true&hide_border=true" alt="Ruvikm's github status" /></a>|<a href="https://github.com/Ruvikm"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruvikm&layout=compact&theme=buefy&hide_border=true" /></a>|
 |--|--|
