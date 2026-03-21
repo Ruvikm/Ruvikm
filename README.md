@@ -2,19 +2,13 @@
 
 ### Hi there 👋
 
-- 🤣 一个学生  
-- 😣 这几年在搞大模型  
-- ✏️ 平时想起来就写点[博客](https://ruvikm.github.io/)  
-- 💪 希望以后可以进大厂  
-
+- 🤣 一个牛马  
+- 😣 这几年在搞Agent  
+- ✏️ 平时想起来就写点[博客](https://ruvikm.github.io/)    
 <br>
 
-最近看到一句很有感触的话，送给看到这里的陌生人。  
-<br>  
-做一件对的事，不就是会很难吗😊~  
-<br><br>
-
 ---
+<img src="https://github-immortality.vercel.app/api?username=Ruvikm" width="100%" />
 
 ## 🧰 Tech Stack
 
@@ -30,11 +24,6 @@
 
 ---
 
-## ⭐ Wangdao Star 趋势
-
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Ruvikm/Wangdao-Data-Structures&type=Date)](https://star-history.com/#Ruvikm/Wangdao-Data-Structures&Date)
-
-</div>
+<a href="https://raw.githubusercontent.com/Ruvikm/Ruvikm/master/profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="github-active" width="100%" />
 
