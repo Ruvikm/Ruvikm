@@ -46,7 +46,7 @@
 
 
 <a href="https://raw.githubusercontent.com/Ruvikm/Ruvikm/master/profile-3d-contrib/profile-night-rainbow.svg">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="github-active" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ruvikm/Ruvikm/master/profile-3d-contrib/profile-night-rainbow.svg" alt="github-active" width="100%" />
 </a>
 
 </div>
